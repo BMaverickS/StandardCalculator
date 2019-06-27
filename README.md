@@ -2,10 +2,10 @@ Standard Calculator
 
 Aplikasi kalkulator sederhana dengan menampilkan operasi matematika dasar
 
-1. + (tambah)
-2. - (kurang)
-3. * (kali)
-4. / (bagi)
+1. "+" (tambah)
+2. "-" (kurang)
+3. "*" (kali)
+4. "/" (bagi)
 
 operator ditampilkan dengan spinner
 
